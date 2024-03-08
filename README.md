@@ -6,6 +6,11 @@ Python 3.11 + Fast API로 만든 게시판 CRUD </br>
 ## 데이터베이스 스키마 정보 및 테이블 정보
 ![](DB정보.png)
 
+## Rest API 
+- Rest API로 구현했으나 Request Body, Response Body는 간단해서 생략하겠습니다. </br>
+<img width="457" alt="스크린샷 2024-03-08 오후 3 13 30" src="https://github.com/sudago/-CRUD---Python/assets/97204689/46570b4c-eb6d-435e-b611-0b7599044cdc">
+
+
 ## API 테스트 방법
 프레임워크는 빠르게 구현할 수 있고, Swagger(자동 문서화)를 제공하는 FastAPI를 사용했습니다. </br>
 해당 레포를 클론받아 서버를 띄웠다면 아래 URL을 통해서 API를 테스트 할 수 있습니다.
