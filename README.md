@@ -7,8 +7,8 @@ Python 3.11 + Fast API로 만든 게시판 CRUD </br>
 ![](DB정보.png)
 
 ## API 테스트 방법
-프레임워크는 빠르게 구현할 수 있고, Swagger(자동 문서화)를 제공하는 FastAPI를 사용했습니다.
-아래 URL을 통해서 API를 테스트 할 수 있습니다.
+프레임워크는 빠르게 구현할 수 있고, Swagger(자동 문서화)를 제공하는 FastAPI를 사용했습니다. </br>
+해당 레포를 클론받아 서버를 띄웠다면 아래 URL을 통해서 API를 테스트 할 수 있습니다.
 - http://localhost:8000/docs
 
 - **게시물 생성 API**
